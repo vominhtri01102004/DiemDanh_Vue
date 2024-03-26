@@ -1,0 +1,54 @@
+{
+  "student": [
+    {
+      "id": "7a64",
+      "name": "Bảo",
+      "mssv": "501220242",
+      "lop": "CD22CT11",
+      "khoa": "CNTT",
+      "mon": "Ứng Dụng Web",
+      "diem": "Có Phép"
+    },
+    {
+      "id": "8d47",
+      "name": "Chiến",
+      "mssv": "50122859",
+      "lop": "CD22CT12",
+      "khoa": "Thiết kế Đồ Họa",
+      "mon": "Ứng Dụng Đa Nền Tảng",
+      "diem": "Không vắng"
+    },
+    {
+      "id": "ea7e",
+      "name": "Thắng",
+      "mssv": "50122353",
+      "lop": "CD22CT12",
+      "khoa": "Marketing",
+      "mon": "Web framwork",
+      "diem": "Vắng"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Trí",
+      "email": "Vominhtri01102004@gmail.com",
+      "password": "123"
+    },
+    {
+      "id": "2",
+      "name": "Thắng",
+      "email": "Phanminhthang@gmail.com",
+      "password": "123"
+    }
+  ],
+  "admin": [
+    {
+      "id": "635b",
+      "name": "Thắng",
+      "email": "thanghunh@gmail.com",
+      "nganh": "CNTT",
+      "mon": "Ứng Dụng Web"
+    }
+  ]
+}
